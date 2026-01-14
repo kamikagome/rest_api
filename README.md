@@ -1,6 +1,8 @@
 # TaskFlow API
 
-A professional-grade REST API for task management built with Flask. This project demonstrates best practices in API design, authentication, and security.
+REST API for task management built with Flask. This project demonstrates API design, authentication, and security. 
+
+There is a CLAUDE.md file with markdown that can help to learn about REST API. 
 
 ## Features
 
